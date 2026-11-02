@@ -3,3 +3,4 @@ second edition
 third edition
 issue resolved locally
 issue resolved remotely
+New function added
